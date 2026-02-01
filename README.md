@@ -1,9 +1,23 @@
-Aplicación de técnicas de aprendizaje supervisado; modelo de regresión múltiple, modelo de regresión polinomial, KNN de regresión, Random Forest de regresión
-y técnica de aprendizaje no supervisado; K-prototype para el análisis de conglomerados con variables mixtas, sobre variables de turismo receptor para 
-predecir el gasto turístico y/o identificar perfiles de visitantes receptores a Santander-Colombia.
+Descripción del proyecto
 
-Librerías scikit-learn para aprendizaje estadístico computacional, librerías de Seaborn y Matplotlib para visualización de datos, Lenguaje de programación Python, 
-entorno de trabajo Google Colab.
+Este proyecto aplica técnicas de aprendizaje supervisado y no supervisado sobre datos de turismo receptor en Santander, Colombia, con el objetivo de:
+Predecir el gasto turístico de los visitantes
+Identificar perfiles de visitantes mediante técnicas de segmentación
+
+Técnicas utilizadas
+
+Regresión múltiple
+Regresión polinomial
+KNN de regresión
+Random Forest de regresión
+K-Prototypes para análisis de conglomerados con variables mixtas
+
+Tecnologías y herramientas
+
+Python
+scikit-learn
+Matplotlib y Seaborn
+Google Colab
 
 https://github.com/DianaGarcesPortilla/Machine_Learning/blob/main/Aprendizaje_estad%C3%ADstico_computacional.ipynb
 
