@@ -1,23 +1,23 @@
-# Descripción del proyecto
+Descripción del proyecto
 
 Este proyecto aplica técnicas de aprendizaje supervisado y no supervisado sobre datos de turismo receptor en Santander, Colombia, con el objetivo de:
--Predecir el gasto turístico de los visitantes
--Identificar perfiles de visitantes mediante técnicas de segmentación
+Predecir el gasto turístico de los visitantes
+Identificar perfiles de visitantes mediante técnicas de segmentación
 
-# Técnicas utilizadas
+Técnicas utilizadas
 
--Regresión múltiple
--Regresión polinomial
--KNN de regresión
--Random Forest de regresión
--K-Prototypes para análisis de conglomerados con variables mixtas
+Regresión múltiple
+Regresión polinomial
+KNN de regresión
+Random Forest de regresión
+K-Prototypes para análisis de conglomerados con variables mixtas
 
 # Tecnologías y herramientas
 
--Python
--scikit-learn
--Matplotlib y Seaborn
--Google Colab
+Python
+scikit-learn
+Matplotlib y Seaborn
+Google Colab
 
 https://github.com/DianaGarcesPortilla/Machine_Learning/blob/main/Aprendizaje_estad%C3%ADstico_computacional.ipynb
 
