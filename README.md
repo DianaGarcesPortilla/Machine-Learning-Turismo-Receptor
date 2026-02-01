@@ -12,7 +12,7 @@ KNN de regresión
 Random Forest de regresión
 K-Prototypes para análisis de conglomerados con variables mixtas
 
-# Tecnologías y herramientas
+Tecnologías y herramientas
 
 Python
 scikit-learn
